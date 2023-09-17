@@ -1,0 +1,3 @@
+apple: Cedar_apple_rust
+maize: common_rust
+Grape: black_rot
